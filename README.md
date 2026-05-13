@@ -67,23 +67,10 @@
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
-
-## 📖 About
-
-### The Mission
-In an era of endless digital sales and game passes, our libraries grow faster than our free time. **BacklogBurner** was born from the frustration of seeing a list of 500+ unplayed games and not knowing where to start. 
-
-The goal was to create an interface that feels like a classic arcade terminal—evoking the nostalgia of 80s and 90s gaming—while providing modern, snappy performance. We believe that tracking your progress should be as fun as playing the games themselves.
-
-### Why Retro-Neon?
-We chose the neon-on-dark aesthetic to minimize eye strain during late-night gaming sessions and to celebrate the "cyberpunk" future we were promised in the golden age of arcade gaming. Every glow, scanline, and pixel-font choice is intentional, designed to make your backlog feel like a high-score leaderboard waiting to be topped.
 
 ---
 
 ## 📄 License
 This project is licensed under the MIT License.
 
----
 
-*Built with ❤️ by [twiners212](https://github.com/twiners212)*
